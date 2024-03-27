@@ -1,3 +1,5 @@
+# Eventos
+
 Os Eventos  no  .NET são baseados no modelo de representante. O modelo de representante segue o padrão de design do observador, que permite a um assinante se registrar em um provedor e receber notificações dele. 
 
 Um evento é uma mensagem enviada por um objeto para sinalizar a ocorrência de uma ação ou mudança de estado, como por exemplo, se você tem uma classe que representa uma tarefa, você pode ter um evento que é disparado toda vez que uma tarefa é concluída.
@@ -214,3 +216,11 @@ public event EventHandler<MudancaTemperaturaEventArgs> EventoDeMudancaDeTemperat
 - [Master C# Events Like a Senior Developer: Real-World Examples in .NET!](https://youtu.be/9H7PU-cy0Sw?si=VaBC9FAw-fuTPe4U)
 - [Microsoft - Manipular e gerar eventos](https://learn.microsoft.com/pt-br/dotnet/standard/events/)
 - [Events e delegates | C# Avançado | Notificações, Func, Action, Predicate e Anônimos](https://www.youtube.com/watch?v=SuW2GwO17qA)
+
+## Autores
+
+Estes projetos de exemplo foram criados para fins educacionais. [Marcelo](https://github.com/Mmarcelinho) é responsável pela criação e manutenção destes projetos.
+
+## Licença
+
+Este projetos não possuem uma licença específica e são fornecidos apenas para fins de aprendizado e demonstração.
