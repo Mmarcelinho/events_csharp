@@ -210,7 +210,7 @@ public event EventHandler<MudancaTemperaturaEventArgs> EventoDeMudancaDeTemperat
 
 ------------------------------------------------------------------
 
-###  Fontes de estudo
+###  Referência
 
 - [Eventos, Delegados, Cadeia de Delegados por exemplo C#](https://www.codeproject.com/Articles/1077216/Csharp-Lectures-Lecture-Events-Delegates-Delegat)
 - [Master C# Events Like a Senior Developer: Real-World Examples in .NET!](https://youtu.be/9H7PU-cy0Sw?si=VaBC9FAw-fuTPe4U)
